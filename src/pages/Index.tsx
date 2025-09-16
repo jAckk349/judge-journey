@@ -15,14 +15,14 @@ const Index = () => {
         <Pricing />
       </main>
       
-      <footer className="border-t border-border bg-secondary/20 py-12">
+      <footer className="border-t border-border bg-secondary/50 py-12">
         <div className="container">
           <div className="text-center">
             <div className="flex items-center justify-center space-x-2 mb-4">
-              <div className="p-2 rounded-lg bg-primary/10">
-                <span className="text-2xl">⚡</span>
+              <div className="p-2 rounded-lg bg-primary/20">
+                <span className="text-2xl">🚀</span>
               </div>
-              <span className="text-xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
+              <span className="text-xl font-bold">
                 CodeTrack
               </span>
             </div>
